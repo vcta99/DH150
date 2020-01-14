@@ -13,11 +13,11 @@ Information about the web/app for the first heuristic evaluation
 ## Overall Impression:
 ### CCLE
 The app more resembled a text document than it did an app. Organization was a huge hinderence in the app, and there was a lot of nested information and links to get to. The user was given very little autonomy, which was very frustrating when it came to the calendar and reminders feature. It was also unnecesarily cluttered, and as a user it was difficult for me to imagine what the primary use of the app should be.
+![Test](DH&#32;101&#32;-&#32;Course&#32;Lists.png)
 
 ### Trello
 This dekstop application was much more polished, but was a bit confusing to use due to its overwhelming list of features. However, it outperformed CCLE in aesthetics and in user autonomy. It was also interesting in the sense that Trello offered more features, yet was still less cluttered than CCLE.
 
-![Test](DH&#32;101&#32;-&#32;Course&#32;Lists.png)
 
 ## 1: Visibility of system status
 ### CCLE
@@ -29,6 +29,7 @@ This could also be used for the 'class progress'. The app separates classes into
 ### Trello
 Severity Rating: (1)
 Trello does have pre-set cards that label the state of each task, and you can also check off tasks once you have completed them. Once you have checked off these tasks, the card will update with how many tasks you have left to complete until the entire objective is complete. However, it is up to you to input your own tasks.
+![Test](DH_Check.png)
 
 
 ## 2: Match between system and the real world
@@ -81,6 +82,7 @@ This app relies heavily on recognition, which offers a pleasant experience for t
 ### Trello
 Severity rating: (0)
 The Trello app has an excellent search feature, that lets you search by color of label, by date due, etc. The search feature also includes autofill and will search through cards as you input the search, not after you complete it, so you can see your results narrowing down.
+![Test](DH_Trello_Search.png)
 
 
 ## 7: Flexibility and efficiency of use
@@ -109,20 +111,19 @@ Severity rating: (1)
 Again, there is very little autonomy given to users, so it is difficult to set up opportunities for users to recognize and recover from errors. There are grades, but these are not necessarily errors on the applications part.
 
 ### Trello
-## 9: Help users recognize, diagnose, and recover from errors
 Severity Rating: (0)
 Super pleasant! The login feature tells you exactly where the error is (wrong password, password not set, etc.)
-
+![Test](DH_Trello_Error.png)
 
 ## 10: Help and documentation
 ### CCLE
 Severity rating: (3)
 A help feature does exist, but it is incredibly inefficient, as it redirects you to a link that opens up on your internet browser,rather than in the app. The link you are directed to is stylistically different from the application itself, and once you are in your browser there is no natural way in which you can go back to the application, disrupting user flow.
 ![Test](DH101_help.png)
-![Test](DH101_help.png)
 
 ### Trello
 Severity Rating: (2)
 There is a ‘butler’ feature, which is meant to help you improve your Trello board. However, the feature depends on some familiarity with the app before hand, and does not break each function down for the user. The app does, however, have tutorial slides that go over each feature, but this tutorial is not readily available after the first viewing. Indeed, I had a bit of trouble and was overwhelmed by the many features on the application.
+![Test](DH_Butler.png)
 
 
