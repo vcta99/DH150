@@ -3,8 +3,6 @@
 ##Motivation + Description
 I will be conducting a heuristic evaluation of CCLE, or Common Collaboration and Learning Environment, a service offered by UCLA to the student body. CCLE exclusively serves the community of UCLA students, and exists both on desktop and on mobile. I will be reviewing the mobile version, as I see a lot of potential for the app's use (CCLE is one of my most visited sites on desktop), yet I don't see many of my peers using it. My peers are always on the go, and need to be constantly on track of assignments and other test dates, so finding ways to improve the app could also improve the general workflow of students.
 
-I will also be conducting a review of the Target desktop website. This is simply due to my own personal love of Target, and its accessibility for UCLA students with its location in Westwood.
-
 Information about the web/app for the first heuristic evaluation
 [CCLE](https://ccle.ucla.edu/my/)
 
