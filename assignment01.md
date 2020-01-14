@@ -103,7 +103,7 @@ The app is extremely cluttered. The font size is on the smaller side and a bit d
 ### Trello
 Severity Rating: (0)
 Very pretty! Pleasant use of colors and designs are relatively minimalistic. 
-
+![Test](DH_Aesthetic.png)
 
 ## 9: Help users recognize, diagnose, and recover from errors
 ### CCLE
@@ -114,6 +114,7 @@ Again, there is very little autonomy given to users, so it is difficult to set u
 Severity Rating: (0)
 Super pleasant! The login feature tells you exactly where the error is (wrong password, password not set, etc.)
 ![Test](DH_Trello_Error.png)
+
 
 ## 10: Help and documentation
 ### CCLE
