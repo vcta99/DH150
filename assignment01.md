@@ -8,8 +8,6 @@ I will also be conducting a review of the Target desktop website. This is simply
 Information about the web/app for the first heuristic evaluation
 [CCLE](https://ccle.ucla.edu/my/)
 
-Information about the web/app for the second heuristic evaluation
-[Target](https://www.target.com/)
 
 Overall Impression:
 The app more resembled a text document than it did an app. Organization was a huge hinderence in the app, and there was a lot of nested information and links to get to. The user was given very little autonomy, which was very frustrating when it came to the calendar and reminders feature. It was also unnecesarily cluttered, and as a user it was difficult for me to imagine what the primary use of the app should be.
