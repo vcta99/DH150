@@ -20,6 +20,7 @@ This could also be used for the 'class progress'. The app separates classes into
 ##2: Match between system and the real world
 Severity rating: (2)
 In general, the app does an adequate job of matching the real world. The language used is quite consistent, 'Grades', 'Reminders', etc. Some symbols, like the 'all courses' use a symbol that is not inherently a reflection of the real world. 
+![Test](DH&#32;101&#32;-&#32;Course&#32;Lists.png)
 
 ##3: User control and freedom
 Severity rating: (3)
@@ -28,6 +29,7 @@ There is very little user control on this application. All calendar events and r
 ##4: Consistency and standards
 Severity rating: (1)
 In general, all fonts, colors, and buttons are stylistically similar. However,the color of the card that represents the class is not consistent with any other header of feature, and is not used anywhere else on the app. The color seems arbitrary, and may cause confusion for the user. Another area of confusion is that there are two distinctly different features on the bottom that have the same name.
+![Test](DH101_colors.png)
 
 ##5: Error prevention
 Severity rating: (2)
