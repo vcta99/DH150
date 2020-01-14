@@ -1,4 +1,4 @@
-# CCLE
+# Services for Students: CCLE and Trello
 
 ## Motivation + Description
 I will be conducting a heuristic evaluation of CCLE, or Common Collaboration and Learning Environment, a service offered by UCLA to the student body. CCLE exclusively serves the community of UCLA students, and exists both on desktop and on mobile. I will be reviewing the mobile version, as I see a lot of potential for the app's use (CCLE is one of my most visited sites on desktop), yet I don't see many of my peers using it. My peers are always on the go, and need to be constantly on track of assignments and other test dates, so finding ways to improve the app could also improve the general workflow of students.
