@@ -9,6 +9,8 @@ Information about the web/app for the first heuristic evaluation
 
 Brief evaluation of the web/app - overall impression and ux issues you found that you can imporve.
 
+![Test](DH&#32;101&#32;-&#32;Course&#32;Lists.png)
+
 ##1: Visibility of system status
 Severity rating: (3)
 There are two places where visibility of system statuses could be used, but aren't. The first is in the submission process when turning in assignments. There is no clear indication of the number of steps this process would take, nor any signal to the user of where they are in the process.
