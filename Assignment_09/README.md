@@ -8,27 +8,30 @@ The ability to record and edit a performance.
 The ability to organize one’s portfolio by creating folders
 
 # Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+Overall, these students may not have access to a lot of resources, such as finding a ride to the location the music artist is at. Additionally, these students may have other commitments they have to abide to and may find it difficult to find time to go to these lessons. These factors contribute to an overall lack of engagement, as students will most likely find it difficult to focus if they cannot attend class as often or are worried about more pressing issues. 
+
+My app will provide a platform for these students to upload audio or video recordings of themselves for evaluation. Ideally, my project would partner with local school districts who already have music programs to provide additional support, as these schools may be short staffed/lack resources to give each student individual support.
 
 # Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 # User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+I formally interviewed two users from two target demographics, one who was professionally trained (plays in the UC San Diego orchestra), and one who plays music casually. My goal was to learn about their own music journeys, and to see how efficient it could be to evaluate a performance via video. Interestingly enough, my user research confirmed that visuals were just as important as audio in evaluating a musician’s performance, which I found to be unexpected. The rationale being that posture, embouchure, and overall body placement is integral to music playing, and that while one can ‘listen’ for wrong notes, it is difficult to correct unless you visually see what the player is doing to cause the wrong notes. I had originally planned to support audio only files on the app, so this was a welcome revelation.
+
 
 # UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+I developed three personas for this app, the student, the evaluator, and the parent. Since our app’s target demographic was younger kids wanting to learn how to play music, I thought it was worthwhile to include accounts for parents to monitor their child’s process. I developed three scenarios, one for each user: recording performances, accessing performances, and evaluating performances. 
 
 # Wireframe and graphic design element variation [assignment07 + part of 08]
 
 # Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+I created a low-fidelity prototype of the students ‘portfolio’, where the user would upload their recordings. These recordings would then be evaluated by the professor, but would also be viewable by their parents (but their parents would not be able to leave feedback). I did test the wireflow, and the test user’s expectations mostly matched what I had designed. One interesting note was that the test user expected some features to always be accessible (ie. that one could edit their recording even after it had been uploaded). Although that was not how I initially conceptualized the design, I thought it made logical sense, and noted that for the next iteration.
 
 # High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+My design targets a younger user group, so I wanted the color scheme and font to reflect that. I chose brighter colors to give a sense of playfulness, and a rounded font as a header to give a friendlier, younger look. I kept squares with rounded corners and tried to keep most components rounded to keep with a cuter, friendlier feel.
 
 # Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+As noted previously, I did conduct an accessibility audit on my high-fidelity prototype. The bright blue I used initially did not have high enough contrast (I used the Stark plugin on Figma to measure this). As a result, I changed the bright blue to a deep green, and adjusted the remainder of the design accordingly. 
 
 # Pitch video [update the video after recording your presentation]
 
