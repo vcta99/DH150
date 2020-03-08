@@ -27,23 +27,44 @@ I formally interviewed two users from two target demographics, one who was profe
 # UX storytelling [persona+scenario, assignment05]
 I developed three personas for this app, the student, the evaluator, and the parent. Since our app’s target demographic was younger kids wanting to learn how to play music, I thought it was worthwhile to include accounts for parents to monitor their child’s process. I developed three scenarios, one for each user: recording performances, accessing performances, and evaluating performances. 
 
-![DH USERS](dh150_users_01.png)
+![Users](dh150_users-01.png)
 
 ### Read More [Full UX Storytelling](https://docs.google.com/document/d/1pRCts9UONrtibUF1LR1w_9zvTd58NjbpCZb22IOHt2E/edit?usp=sharing)
 
-
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
+
+![Low Fidelity](dh150_lowfid1.png)
+![Low Fidelity](dh150_lowfid2.png)
 
 ## Low-fidelity prototype (wireflow, assignment07)
 I created a low-fidelity prototype of the students ‘portfolio’, where the user would upload their recordings. These recordings would then be evaluated by the professor, but would also be viewable by their parents (but their parents would not be able to leave feedback). I did test the wireflow, and the test user’s expectations mostly matched what I had designed. One interesting note was that the test user expected some features to always be accessible (ie. that one could edit their recording even after it had been uploaded). Although that was not how I initially conceptualized the design, I thought it made logical sense, and noted that for the next iteration.
 
+![Mid Fidelity](dh150_midfid.png)
+
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 My design targets a younger user group, so I wanted the color scheme and font to reflect that. I chose brighter colors to give a sense of playfulness, and a rounded font as a header to give a friendlier, younger look. I kept squares with rounded corners and tried to keep most components rounded to keep with a cuter, friendlier feel.
 
+![High Fidelity](dh150_highfid.png)
+![Wireframes](dh150_wireflow.png)
+
 ## Optional evaluation and revision history 
 As noted previously, I did conduct an accessibility audit on my high-fidelity prototype. The bright blue I used initially did not have high enough contrast (I used the Stark plugin on Figma to measure this). As a result, I changed the bright blue to a deep green, and adjusted the remainder of the design accordingly. 
+![Before](dh150_before.png)
+![After](dh150_after.png)
+
+I also conducted a heuristic evaluation, available for view on my figma file:
+
+### Read More [Heuristic Evaluation(Figma)](https://www.figma.com/file/dwtQhWag9RkM8AIiQlkv0N/Hi-Fidelity-Wire-Frames)
+![User Control](dh150_eval1.png)
+![Error Prevention](dh150_eval2.png)
+![All Comments](dh150_eval.png)
+
+### I made some improvements based on my evaluation . . .
+
+![Error prevention](dh150_revision.png)
 
 ## Pitch video [update the video after recording your presentation]
 
-## conclusion: what you learned throughout the process
+## Conclusion
+In 
 
