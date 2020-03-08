@@ -16,8 +16,11 @@ My app will provide a platform for these students to upload audio or video recor
 While starting this project, my focus had been a bit broad and I focused on student learning generally. I conducted a heuristic analysis of Trello and CCLE, both academic planning apps for students. My findings could have been more helpful if I had a more focused idea of my project earlier on, however it was still helpful to see how students organize their tasks generally, as this sort of behavior is common through all types of learning. 
 
 In summation, CCLE was of much poorer quality than Trello. Organization was a huge hinderence in the app, and there was a lot of nested information and links to get to. The user was given very little autonomy, which was very frustrating when it came to the calendar and reminders feature. It was also unnecesarily cluttered, and as a user it was difficult for me to imagine what the primary use of the app should be. Trello, however, was much more polished, but was a bit confusing to use due to its overwhelming list of features. However, it outperformed CCLE in aesthetics and in user autonomy. It was also interesting in the sense that Trello offered more features, yet was still less cluttered than CCLE.
+|         Trello        |       CCLE          |
+| --------------------- |:-------------------:|
+| ![T](dh150_trello.png)| ![T](dh150_ccle.png |
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](dh150_thumbnail.png)](https://youtu.be/T-D1KVIuvjA)
 
 ### Read More [Full Competitor Analysis](https://vcta99.github.io/DH150/assignment01)
 
