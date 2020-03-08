@@ -22,7 +22,7 @@ In summation, CCLE was of much poorer quality than Trello. Organization was a hu
 ## User research [contextual inquiry, assignment04]:
 I formally interviewed two users from two target demographics, one who was professionally trained (plays in the UC San Diego orchestra), and one who plays music casually. My goal was to learn about their own music journeys, and to see how efficient it could be to evaluate a performance via video. Interestingly enough, my user research confirmed that visuals were just as important as audio in evaluating a musician’s performance, which I found to be unexpected. The rationale being that posture, embouchure, and overall body placement is integral to music playing, and that while one can ‘listen’ for wrong notes, it is difficult to correct unless you visually see what the player is doing to cause the wrong notes. I had originally planned to support audio only files on the app, so this was a welcome revelation.
 
-### Read More [Full User Reserach](https://vcta99.github.io/DH150/ASSIGNMENT_04.md)
+### Read More [Full User Reserach](https://vcta99.github.io/DH150/ASSIGNMENT_04)
 
 # UX storytelling [persona+scenario, assignment05]
 I developed three personas for this app, the student, the evaluator, and the parent. Since our app’s target demographic was younger kids wanting to learn how to play music, I thought it was worthwhile to include accounts for parents to monitor their child’s process. I developed three scenarios, one for each user: recording performances, accessing performances, and evaluating performances. 
