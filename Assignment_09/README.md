@@ -23,6 +23,7 @@ In summation, CCLE was of much poorer quality than Trello. Organization was a hu
 ### CCLE
 ![T](dh150_ccle.png)
 
+### User walk through
 [![Watch the video](dh150_thumbnail.png)](https://youtu.be/T-D1KVIuvjA)
 
 ### Read More [Full Competitor Analysis](https://vcta99.github.io/DH150/assignment01)
