@@ -64,6 +64,36 @@ As noted previously, I did conduct an accessibility audit on my high-fidelity pr
 I also conducted a heuristic evaluation, available for view on my figma file:
 
 ### Read More [Heuristic Evaluation(Figma)](https://www.figma.com/file/dwtQhWag9RkM8AIiQlkv0N/Hi-Fidelity-Wire-Frames)
+##### 1. Visibility of system status 
+Lacking, could be improved by creating a loading bar for the video.
+
+##### 2: Match between system and the real world
+Good! The recordings can be organized into the folders, mimicking how the user usually organizes their work into subcategories.
+
+##### 3. User control and freedom
+Quite good, the user can edit certain aspects of the performance before turning it in.
+
+##### 4: Consistency and standards
+All colors and fonts are stylistically consistent, however some sharper edges exist (ex. the 'playback' sign) that don't match the rounded aesthetic.
+
+##### 5: Error prevention
+Error prevention does not exist, but could be implementing here. The app could prevent you from uploading a video that is too short (say 0-1 seconds), or one that is mute.
+
+##### 6: Recognition rather than recall
+Although not specifically stated, the search bar would try to "fill in" whatever you are searching for, which would help when the user cannot remember the exact name of recording.
+
+##### 7: Flexibility and efficiency of use
+Overall, I feel the app to be quite efficient to use, as all application uses are quite easily accessible.
+
+##### 8: Aesthetic and minimalist design
+The design remains uncluttered, and contains no unnecessary elements.
+
+##### 9: Help users recognize, diagnose, and recover from errors
+Agains with the search bar, it maybe helpful to have suggested results (ie. did you mean _____) to help the user recover from errors of misspelling.
+
+##### 10: Help and documentation
+I have not included any help and documentation, but creating a basic tutorial of sorts that one can refer back to would be extremely helpful for future iterations.
+
 ![User Control](dh150_eval1.png)
 ![Error Prevention](dh150_eval2.png)
 ![All Comments](dh150_eval.png)
