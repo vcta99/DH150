@@ -50,11 +50,13 @@ I created a low-fidelity prototype of the students ‘portfolio’, where the us
 
 ![Mid Fidelity](dh150_midfid.png)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype
 My design targets a younger user group, so I wanted the color scheme and font to reflect that. I chose brighter colors to give a sense of playfulness, and a rounded font as a header to give a friendlier, younger look. I kept squares with rounded corners and tried to keep most components rounded to keep with a cuter, friendlier feel.
 
 ![High Fidelity](dh150_highfid.png)
 ![Wireframes](dh150_wireflow.png)
+
+[Interactive Prototype](https://www.figma.com/proto/dwtQhWag9RkM8AIiQlkv0N/Hi-Fidelity-Wire-Frames?node-id=2%3A1&scaling=min-zoom)
 
 ## Optional evaluation and revision history 
 As noted previously, I did conduct an accessibility audit on my high-fidelity prototype. The bright blue I used initially did not have high enough contrast (I used the Stark plugin on Figma to measure this). As a result, I changed the bright blue to a deep green, and adjusted the remainder of the design accordingly. 
@@ -102,7 +104,9 @@ I have not included any help and documentation, but creating a basic tutorial of
 
 ![Error prevention](dh150_revision.png)
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video
+
+[![Pitch!](dh150_thumbnail.png)](https://www.youtube.com/watch?v=3OFvd7KuxLQ&feature=youtu.be)
 
 ## Conclusion
 If I was given more time, I would like to conduct user research on how musicicans learn different instruments (wind vs string vs percussion, etc.) Right now my application serves a general audicence, but I believe that knowing these differences could help tailor the user journey to the needs of different instrument players. It was also a challenge to conceptualize my own app from scratch, rather than improving on an existing one, as there were many other fundamanetal features of the application that I did not have time to design. I am quite satisified with what I was able to produce given the cirucumstances, however and would love to further build on what I already have. 
