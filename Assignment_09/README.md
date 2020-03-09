@@ -106,7 +106,7 @@ I have not included any help and documentation, but creating a basic tutorial of
 
 ## Pitch video
 
-[![Pitch!](dh150_thumbnail.png)](https://www.youtube.com/watch?v=3OFvd7KuxLQ&feature=youtu.be)
+[![Pitch!](dh150_thumbnail2.png)](https://www.youtube.com/watch?v=3OFvd7KuxLQ&feature=youtu.be)
 
 ## Conclusion
 If I was given more time, I would like to conduct user research on how musicicans learn different instruments (wind vs string vs percussion, etc.) Right now my application serves a general audicence, but I believe that knowing these differences could help tailor the user journey to the needs of different instrument players. It was also a challenge to conceptualize my own app from scratch, rather than improving on an existing one, as there were many other fundamanetal features of the application that I did not have time to design. I am quite satisified with what I was able to produce given the cirucumstances, however and would love to further build on what I already have. 
